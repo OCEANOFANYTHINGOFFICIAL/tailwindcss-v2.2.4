@@ -80,7 +80,7 @@
     "modern-normalize": "^1.0.0",
     "node-emoji": "^1.8.1",
     "normalize-path": "^3.0.0",
-    "object-hash": "^2.1.1",
+    "object-hash": "^3.0.0",
     "parse-glob": "^3.0.4",
     "postcss-functions": "^3",
     "postcss-js": "^3.0.3",
