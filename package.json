@@ -78,7 +78,7 @@
     "lodash": "^4.17.21",
     "lodash.topath": "^4.5.2",
     "modern-normalize": "^1.0.0",
-    "node-emoji": "^1.8.1",
+    "node-emoji": "^2.0.0",
     "normalize-path": "^3.0.0",
     "object-hash": "^3.0.0",
     "parse-glob": "^3.0.4",
