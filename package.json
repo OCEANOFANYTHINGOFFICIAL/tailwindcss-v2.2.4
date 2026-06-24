@@ -96,7 +96,7 @@
   "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
   "devDependencies": {
     "@babel/cli": "7.24.7",
-    "@babel/core": "7.24.7",
+    "@babel/core": "7.29.6",
     "@babel/node": "7.24.7",
     "@babel/preset-env": "7.24.7",
     "@tailwindcss/aspect-ratio": "0.4.2",
